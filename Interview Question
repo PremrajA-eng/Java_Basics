@@ -1,0 +1,113 @@
+Terminology Used in Java :
+Source code : Developer / Automation test engineer written program
+Compiled code: javac compiler generated code.
+Compiler: Responsible to Convert the source code to byte code.
+Interpreter: it pass the instruction to compile code.
+Compilation:  Its a process to translating the code into byte code.
+Execution: Its a process of running byte code to get output.
+
+
+
+Platform Dependent: An application compiled in one operating system , 
+if its not run in different operating system then application is called platform dependent application.
+the programming language is use to develop this application called platform dependent programming language.
+c, c++
+
+
+Platform InDependent: An application compiled in one operating system , 
+if its run in different operating system then application is called platform dependent application.
+the programming language is use to develop this application called platform independent programming language.
+Java.
+
+
+Types Of applications:
+Stand Alone Application.
+Internet Application.::  Web supportive application
+                         Web application.
+
+Java Implementation to achieve platform independency                      
+Source Code >> Compiler >> Compiled Code.
+Java File Extension:
+ .Java (Source File)
+.class (class file)
+
+Java Program Development , Compilation and execution process:-
+
+Source Code > javac compiler >> class file >> class loader >> Bytecode verifyer >> Interpreter > jvm > OS > Output
+
+Java is platform is dependent or Independent 
+java software is platform dependent. but java programming language is platform Independant , where platform is operating system.
+
+Java Programming Elements: 
+Class / Enum / Interface
+Variable : it is a name Memory Location
+Methods : its a sub block of class used to implement logic 
+---------------------------------------------------------------------------------------
+
+main basic programming elements: class
+is main method mandatory for compilation or execution ? Execution
+
+-------------------------------------------------
+User define method and pre define method.
+Automation test engineer created methods are user define methods  / and already presents are pre define methods.
+
+___________________________________
+
+Java Comment: its a discription about a basic programming language.
+comments are mint to understand purpose of code.
+// Single line comment
+/* code */  multi line comment
+
+Identifiers : 
+# its a name of basic programming elements.
+# ( Ato Z || a to z )
+# 0 to 9
+# only accept _ and $ 
+
+
+Identifires is case sensitive
+Identifier should not start with number.
+
+_________________________________________________________________________________
+
+KeyWords : (50 Keywords)
+#. Java Files: - class interface , enum (3)
+Data Types : byte short, long , char, double , boolean 8 
+Return Types: void(1)
+Memory Locations: static, new (2)
+Conditional statement: if else switch case default.
+Loop statement: while, do , for
+transfer statement: break, continue, return 
+Access modifiers : private public default.
+modifiers: static final, abstract, native , syncronized volatile , strictfp, transient
+inheritance:  extends implements
+object representation: this , super , instanceof
+package: packahe, import
+exception handling: try, catch, finally throw, throws
+validation: assert
+unused : cont , goto
+
+------------------------------------------------------------
+String:-  String is a pre define class as well as non premetive data type.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

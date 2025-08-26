@@ -1,0 +1,5 @@
+While loop: 
+
+it is use to iterate the block of code till condition get false
+
+if the iteration is not fix, it is recommended to use while loop.

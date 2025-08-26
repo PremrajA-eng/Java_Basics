@@ -1,0 +1,41 @@
+Selenium Suit: 
+Selenium WebDriver:- it is a component of selenium suite.
+WebDriver: it is an interface.
+
+Notes:- Selenium is an automation testing tool which support only web base application testing.
+Selenium support multiple programming languages , platforms and browsers.
+
+-------------------------------------------
+Html DOM structore - Document object model
+//TagName[@attributeName=attributeValue]--- By using single attribute.
+  EX:  //input[@id='email']
+  
+  
+  Xpath -- extensible markup language path
+  it is use to locate web elements.
+  1 . Relative Xpath / Partial Xpath
+  2. Absolute Xpath / Complete Xpath
+     ---- /html/body/div[1]/div[1]/div[1]/div/div/div/div[2]/div/div[1]/form/div[1]/div[1]/input
+  Relative Xpath / Partial Xpath:
+  It always start with // slash
+  by using  Xpath we can create our own xpath using below technique.
+  //TagName[@attributeName=attributeValue][@attributeName2=attributeValue2]
+  
+  Using contains method
+  //tagname
+  //input[contains(@id,'email')]
+  
+  Handling radio Buttons and checkbox
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

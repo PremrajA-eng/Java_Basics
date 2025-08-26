@@ -1,0 +1,8 @@
+Operator
+
+/* 1.unary operator   -->> Pre increment and post decrement|| pre decrement post decrement(++exp exp++|| --exp, exp--)
+ * 2.Arithmetic operator
+ * 3.Assignment Operator
+ * 4.Logical Operator
+ * 5.Bitwise Operator
+ * 6.Relational Operator

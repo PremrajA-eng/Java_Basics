@@ -1,0 +1,9 @@
+Polymorphism:
+method Overloading: method name will be same but parameter will be different
+method overriding: more than one method name will be same as parameter will be same also.
+
+parameters can be different in below fashion.
+
+
+on the basis of number of parameter.
+on the basis of type of parameter.

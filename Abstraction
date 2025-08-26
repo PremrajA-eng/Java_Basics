@@ -1,0 +1,9 @@
+Abstraction:
+---> abstract Keyword
+its a process to hide the implementation and showing functionality
+abstract class 
+-- it can have abstract as well as abstract method
+-- abstract class can achieve upto 100 % abstraction
+Note: we can achieve 100% abstraction using interface in java,
+because ingterface does not allow any non abstract method.
+All the method present inside interface will be consider as abstract 

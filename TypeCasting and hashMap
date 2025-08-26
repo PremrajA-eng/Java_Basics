@@ -1,0 +1,15 @@
+Type casting
+Typecasting Narrowing --- manual casting
+Type casting widening- automatic casting
+
+Hashmap and hashtable
+its use to map the data with key
+1-jan
+2-feb
+3-mar
+
+Note: hash map is faster than hash table
+hash map is non syncronized
+hash table is synchronized
+hash table is synchronized
+we use put() method for create mapping and we use method for fetch mapped key value.

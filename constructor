@@ -1,0 +1,9 @@
+Constructor:
+its a block of code same as method
+it is called when an instance of class is created
+its a special type of method which is initialize the object
+whenever object is created using the keyword , at last one constructor is called , that is default constructor if there is no constructor available in the class.
+Types: 
+Default Constructor (without parameter)
+Parameterized Constructor
+Note : constructor name and class name must be same.

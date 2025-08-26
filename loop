@@ -1,0 +1,9 @@
+Loop:-
+
+To avoid code redandncy (code optimisation )
+it iterate number of times.
+if iteration is fix, it is always recomended to use for loop
+
+
+Do while: it is use to iterate the block of code till condition get false.
+if we want to execute loop body at last once, it is recomended to use do while loop.

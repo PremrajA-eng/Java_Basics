@@ -1,0 +1,19 @@
+2024-11-24 10:59:48,689 [main] INFO Log4jLogger - chrome browser instance
+2024-11-24 10:59:48,828 [main] INFO Log4jLogger - window maximise
+2024-11-24 10:59:48,841 [main] INFO Log4jLogger - inmplicit wait given
+2024-11-24 10:59:48,922 [main] INFO Log4jLogger - web element found
+2024-11-24 11:02:33,443 [main] INFO Log4jLogger - chrome browser instance
+2024-11-24 11:02:33,695 [main] INFO Log4jLogger - window maximise
+2024-11-24 11:02:33,702 [main] INFO Log4jLogger - inmplicit wait given
+2024-11-24 11:05:56,993 [main] INFO Log4jLogger - chrome browser instance
+2024-11-24 11:05:57,053 [main] INFO Log4jLogger - window maximise
+2024-11-24 11:05:57,090 [main] INFO Log4jLogger - inmplicit wait given
+2024-11-24 11:06:27,210 [main] INFO Log4jLogger - web element not found
+2024-12-04 07:44:32,500 [main] INFO Log4jLogger - chrome browser instance
+2024-12-04 07:44:32,574 [main] INFO Log4jLogger - window maximise
+2024-12-04 07:44:32,591 [main] INFO Log4jLogger - inmplicit wait given
+2024-12-04 07:45:02,728 [main] INFO Log4jLogger - web element not found
+2024-12-11 22:57:31,657 [main] INFO Log4jLogger - chrome browser instance
+2024-12-11 22:57:31,761 [main] INFO Log4jLogger - window maximise
+2024-12-11 22:57:31,770 [main] INFO Log4jLogger - inmplicit wait given
+2024-12-11 22:58:01,846 [main] INFO Log4jLogger - web element not found
